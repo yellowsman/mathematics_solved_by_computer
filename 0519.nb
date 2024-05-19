@@ -1,0 +1,45 @@
+Notebook[{Cell[
+CellGroupData[{Cell[
+BoxData[RowBox[{"2"," ","*"," ",RowBox[{"(",RowBox[
+{"-","3"}],")"}]}]],"Input",CellLabel -> "In[1]:= ",ExpressionUUID -> "325b7bc3-8293-4b06-802d-b69676af9093"],Cell[
+BoxData[
+RowBox[{"-","6"}],StandardForm],"Output",CellLabel -> "Out[1]= ",ExpressionUUID -> "9b05b97a-bdb7-468c-a1c0-871dcd416506"]},
+Open],ExpressionUUID -> "3b2a978c-ae65-48fc-ac0c-c7e03c2f209b"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"2"," ",RowBox[{"(",RowBox[{"-","3"}],")"}]}]],"Input",CellLabel -> "In[2]:= ",
+ExpressionUUID -> "e44c859e-0ab3-4c98-85c3-2a8c1eddb23f"],Cell[
+BoxData[RowBox[{"-","6"}],
+StandardForm],"Output",CellLabel -> "Out[2]= ",ExpressionUUID -> "2e9c7bbb-8afc-4ea7-b086-ac539ffc1839"]},
+Open],ExpressionUUID -> "1201e98b-662b-4947-8927-95091db6c589"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{RowBox[{RowBox[{"f"," ","="," ",RowBox[{RowBox[{"2"," ","x"}]," ","+"," ","3"}]}],";"}],"\n",RowBox[
+{"f"," ","/.","\[COMPATIBILITYKanjiSpace]",RowBox[{"x"," ","\[Rule]"," ","5"}]}]}]],
+"Input",CellLabel -> "In[3]:= ",ExpressionUUID -> "13b624f4-ac81-4fa0-98d2-6b89f98fe8f4"],Cell[
+BoxData[
+"13",StandardForm],"Output",CellLabel -> "Out[4]= ",ExpressionUUID -> "9cdcd3b7-cfcc-4467-9327-0af32cf70f6f"]},
+Open],ExpressionUUID -> "81d13b64-2a9d-46a5-94c2-cfcf3f36aef2"],Cell[
+CellGroupData[
+{Cell[
+BoxData["f"],"Input",CellLabel -> "In[5]:= ",ExpressionUUID -> "0078dc8e-140c-45da-972e-d766399bbad2"],Cell[
+BoxData[
+RowBox[{"3","+",RowBox[{"2"," ","x"}]}],StandardForm],"Output",CellLabel -> "Out[5]= ",
+ExpressionUUID -> "c5df39be-2328-48cf-a37c-9648dc9729c3"]},Open],ExpressionUUID -> "ca80e40b-b7d2-4ea2-8c12-963003837fe7"],Cell[
+CellGroupData[
+{Cell[
+BoxData[{RowBox[{RowBox[{"g"," ","="," ",RowBox[{"a"," ","+"," ","b"}]}],";"}],"\n",RowBox[
+{"g"," ","/."," ",RowBox[{"{",RowBox[{RowBox[{"a"," ","\[Rule]"," ","x"}],","," ",RowBox[
+{"b"," ","\[Rule]"," ","y"}]}],"}"}]}]}],"Input",CellLabel -> "In[6]:= ",ExpressionUUID -> "f25eed63-4215-4eac-bd9c-95a4c6a2e02e"],Cell[
+BoxData[
+RowBox[{"x","+","y"}],StandardForm],"Output",CellLabel -> "Out[7]= ",ExpressionUUID -> "9b185762-4c7b-47fc-bb4b-1b0fadff5357"]},
+Open],ExpressionUUID -> "1c2b66b5-e436-490c-8d94-9341014bdce3"],Cell[
+CellGroupData[
+{Cell[
+BoxData[{RowBox[{RowBox[{"f"," ","="," ",RowBox[{"Function","[",RowBox[{"x",","," ",RowBox[
+{RowBox[{"2"," ","x"}]," ","+"," ","3"}]}],"]"}]}],";"}],"\n",RowBox[{"f","[","5","]"}]}],
+"Input",CellLabel -> "In[10]:= ",ExpressionUUID -> "3238a55b-5889-4a71-976c-6c247532067c"],Cell[
+BoxData[
+"13",StandardForm],"Output",CellLabel -> "Out[11]= ",ExpressionUUID -> "39f803f3-04d8-4e30-820f-5b84afb24e58"]},
+Open],ExpressionUUID -> "3523ea16-e410-4792-9b37-bb9137d0c75a"]},StyleDefinitions -> "Default.nb",
+FrontEndVersion -> "14. for Wolfram Cloud 1.68 (February 7, 2024)"]
